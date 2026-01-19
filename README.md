@@ -2,16 +2,13 @@
 
 Este é um projeto de chatbot interativo que utiliza o modelo de linguagem Gemini do Google para gerar respostas inteligentes. A interface foi construída utilizando Streamlit, permitindo uma experiência de chat fluida e moderna diretamente no navegador.
 
-🚀 Funcionalidades
-Interação em Tempo Real: Interface de chat limpa e responsiva.
+## 🚀 Funcionalidades
 
-Memória de Conversa: Utiliza o session_state do Streamlit para manter o histórico da conversa durante a sessão.
-
-Integração com Gemini: Conectado à API da Google Generative AI para processamento de linguagem natural.
-
-Feedback Visual: Spinner de carregamento enquanto a IA gera a resposta.
-
-Tratamento de Erros: Sistema robusto para identificar problemas com chaves de API ou conexão.
+* **Interação em Tempo Real:** Interface de chat limpa e responsiva.
+* **Memória de Conversa:** Utiliza o `session_state` do Streamlit para manter o histórico da conversa durante a sessão.
+* **Integração com Gemini:** Conectado à API da Google Generative AI para processamento de linguagem natural.
+* **Feedback Visual:** Spinner de carregamento enquanto a IA gera a resposta.
+* **Tratamento de Erros:** Sistema robusto para identificar problemas com chaves de API ou conexão.
 
 🛠️ Tecnologias Utilizadas
 Linguagem: Python 3.x
